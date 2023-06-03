@@ -1,6 +1,8 @@
 ### 👋 iOS개발자를 꿈꾸며 공부하는 최준영이라고 합니다!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjy0005)](https://solved.ac/cjy0005/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0onYEOng)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Projects
 
