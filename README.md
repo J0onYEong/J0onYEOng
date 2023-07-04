@@ -21,3 +21,9 @@
 <a href="https://cactus-snout-d26.notion.site/iOS-37a451386c86401080358334e7b1b78f">
   <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat&logo=notion&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+## Blog
+
+<a href="https://ios-adventure-with-aphelios.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-F36D5D?style=flat&logo=tistory&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
