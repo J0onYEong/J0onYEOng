@@ -17,8 +17,8 @@
 
 ## Notion
 
-<a href="https://cactus-snout-d26.notion.site/iOS-37a451386c86401080358334e7b1b78f">
-  <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat&logo=notion&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://cactus-snout-d26.notion.site/iOS-37a451386c86401080358334e7b1b78f](https://flying-alyssum-be6.notion.site/Junios-s-second-brain-018c0dabe407401ab9744ba0f57fc953?pvs=4">
+  <img src="https://img.shields.io/badge/Junios's second brain-FFFFFF?style=flat&logo=notion&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 ## Blog
