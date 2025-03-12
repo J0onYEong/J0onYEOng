@@ -99,7 +99,8 @@
         <d>관련 포스팅</d> 
       </td>
       <td> 
-        <a href="https://ios-adventure-with-aphelios.tistory.com/35">기술회고 및 성능 측정↗️</a> 
+        <a href="https://ios-adventure-with-aphelios.tistory.com/39">기술회고 및 성능 측정↗️</a> 
+        <a href="https://ios-adventure-with-aphelios.tistory.com/35">구현과정 소개↗️</a> 
       </td>
   </tr>
   <tr>
