@@ -2,7 +2,9 @@
 
 ## Projects
 
-### Orbit
+※ 최신순
+
+### 📌 Orbit
 <table>
   <tr>
       <td> 
@@ -17,7 +19,7 @@
         <d>사용 기술</d> 
       </td>
       <td> 
-        <d>Swift, UIKit, RIBs</d> 
+        <d>Swift, UIKit, RIBs, Fastlane, 프로덕트 로깅(Mixpanel)</d> 
       </td>
   </tr>
   <tr>
@@ -38,7 +40,105 @@
   </tr>
 </table>
 
+### 📌 마이만다라트
+<table>
+  <tr>
+      <td> 
+        <d>소개</d> 
+      </td>
+      <td> 
+        <d>자신의 성장 방향성인 만다라트 작성을 도와주는 애플리케이션입니다.</d> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>사용 기술</d> 
+      </td>
+      <td> 
+        <d>Swift, UIKit, 클린아키텍처, MVVM, UDF, ReatorKit, Fastlane, 프로덕트 로깅(Amplitude)</d> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>앱스토어</d> 
+      </td>
+      <td> 
+        <a href="https://apps.apple.com/kr/app/%EB%A7%88%EC%9D%B4%EB%A7%8C%EB%8B%A4%EB%9D%BC%ED%8A%B8/id6740050518">앱스토어↗️</a> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>깃허브</d> 
+      </td>
+      <td> 
+        <a href="https://github.com/J0onYEong/MyMandalart">깃허브↗️</a> 
+      </td>
+  </tr>
+</table>
 
+### 📌 코인 뷰어
+<table>
+  <tr>
+      <td> 
+        <d>소개</d> 
+      </td>
+      <td> 
+        <d>웹소켓을 사용하여 실시간 코인 정보를 확인할 수 있는 애플리케이션 입니다.<br>국제화, 웹소켓, 백프래셔현상 최적화등 기술적 챌린지에 초점을 맞춘 프로젝트입니다.</d> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>사용 기술</d> 
+      </td>
+      <td> 
+        <d>Swift, SwiftUI, 클린아키텍처, Custom UDF</d> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>깃허브</d> 
+      </td>
+      <td> 
+        <a href="https://github.com/SW-Maestro-OSS/soma-coin-viewer-ios">깃허브↗️</a> 
+      </td>
+  </tr>
+</table>
+
+### 📌 케어밋
+<table>
+  <tr>
+      <td> 
+        <d>소개</d> 
+      </td>
+      <td> 
+        <d>요양보호사와 재가 요양 서비스를 제공하는 시설을 매칭시키는 채용 플랫폼입니다.</d> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>사용 기술</d> 
+      </td>
+      <td> 
+        <d>Swift, UIKit, 클린아키텍처, Coordinate pattern</d> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>앱스토어</d> 
+      </td>
+      <td> 
+        <a href="https://apps.apple.com/kr/app/%EC%BC%80%EC%96%B4%EB%B0%8B/id6670529341">앱스토어↗️</a> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>깃허브</d> 
+      </td>
+      <td> 
+        <a href="https://github.com/3IDLES/idle-iOS">깃허브↗️</a> 
+      </td>
+  </tr>
+</table>
 
 ## Skills
 
