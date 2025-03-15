@@ -19,7 +19,7 @@
         <d>사용 기술</d> 
       </td>
       <td> 
-        <d>Swift, UIKit, RIBs, Fastlane, 프로덕트 로깅(Mixpanel)</d> 
+        <d>Swift, UIKit, RIBs, Fastlane</d> 
       </td>
   </tr>
   <tr>
