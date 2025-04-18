@@ -4,6 +4,34 @@
 
 ※ 최신순
 
+### 📌 코인 뷰어
+<table>
+  <tr>
+      <td> 
+        <d>소개</d> 
+      </td>
+      <td> 
+        <d>웹소켓을 사용하여 실시간 코인 정보를 확인할 수 있는 애플리케이션 입니다.<br>국제화, 웹소켓, 백프래셔현상 최적화등 기술적 챌린지에 초점을 맞춘 프로젝트입니다.</d> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>사용 기술</d> 
+      </td>
+      <td> 
+        <d>Swift, SwiftUI, 클린아키텍처, Custom UDF</d> 
+      </td>
+  </tr>
+  <tr>
+      <td> 
+        <d>깃허브</d> 
+      </td>
+      <td> 
+        <a href="https://github.com/SW-Maestro-OSS/soma-coin-viewer-ios">깃허브↗️</a> 
+      </td>
+  </tr>
+</table>
+
 ### 📌 Orbit
 <table>
   <tr>
@@ -109,34 +137,6 @@
       </td>
       <td> 
         <a href="https://github.com/J0onYEong/SimpleImageProvider">깃허브↗️</a> 
-      </td>
-  </tr>
-</table>
-
-### 📌 코인 뷰어
-<table>
-  <tr>
-      <td> 
-        <d>소개</d> 
-      </td>
-      <td> 
-        <d>웹소켓을 사용하여 실시간 코인 정보를 확인할 수 있는 애플리케이션 입니다.<br>국제화, 웹소켓, 백프래셔현상 최적화등 기술적 챌린지에 초점을 맞춘 프로젝트입니다.</d> 
-      </td>
-  </tr>
-  <tr>
-      <td> 
-        <d>사용 기술</d> 
-      </td>
-      <td> 
-        <d>Swift, SwiftUI, 클린아키텍처, Custom UDF</d> 
-      </td>
-  </tr>
-  <tr>
-      <td> 
-        <d>깃허브</d> 
-      </td>
-      <td> 
-        <a href="https://github.com/SW-Maestro-OSS/soma-coin-viewer-ios">깃허브↗️</a> 
       </td>
   </tr>
 </table>
