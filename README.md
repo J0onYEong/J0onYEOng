@@ -19,7 +19,7 @@
         <d>사용 기술</d> 
       </td>
       <td> 
-        <d>SwiftUI, 클린아키텍처, MVI</d> 
+        <d>SwiftUI, 클린아키텍처, MVI, Combine, Swift concurrency</d> 
       </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
         <d>사용 기술</d> 
       </td>
       <td> 
-        <d>Swift, UIKit, RIBs, Fastlane</d> 
+        <d>UIKit, RIBs, Fastlane</d> 
       </td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@
         <d>사용 기술</d> 
       </td>
       <td> 
-        <d>Swift, UIKit, 클린아키텍처, MVVM, UDF, ReatorKit, Fastlane, 프로덕트 로깅(Amplitude)</d> 
+        <d>UIKit, ReactorKit, Fastlane</d> 
       </td>
   </tr>
   <tr>
@@ -156,7 +156,7 @@
         <d>사용 기술</d> 
       </td>
       <td> 
-        <d>Swift, UIKit, 클린아키텍처, Coordinate pattern</d> 
+        <d>UIKit, 클린아키텍처, MVVM-C</d> 
       </td>
   </tr>
   <tr>
