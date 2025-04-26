@@ -19,7 +19,7 @@
         <d>사용 기술</d> 
       </td>
       <td> 
-        <d>Swift, SwiftUI, 클린아키텍처, Custom UDF</d> 
+        <d>SwiftUI, 클린아키텍처, MVI</d> 
       </td>
   </tr>
   <tr>
